@@ -6,17 +6,14 @@ Zizhen Wang, ziw142@ucsd.edu
 
 ## Abstract
 
-Different types music always have the specific rhythm, melody and instruments. People could recognize these sytles depends on the them but if we use machine learning to generate the new music which it may change the number of instrument, the melody and the rhythm, could we still can recognize them. I use 3 examples as training data, and I will sue GANsynth, MusicVAE and Transformer to change the number of instruments, the melody and the rhythm in different orders to get results
+Different types music always have the specific rhythm, melody and instruments. People could recognize these sytles depends on the them but if we use machine learning to generate the new music which it may change the number of instrument, the melody and the rhythm, could we still can recognize them. I will sue GANsynth, MusicVAE and Transformer to change the number of instruments, the melody and the rhythm in different orders to get results
 
 ## Model/Data
 
-I picked up 3 type of music.
+
 La companella
 This is a piano song which represents classical style and only one instrument.
-Confession -Badbadnotgood
-This is a saxophone and drum song which represents Jazz music and have 2-3 instruments.
-La ferme conviction -Miserable faith
-This is a guitar and bass guitar song which represents Rock music and have 2 instruments.
+
 
 
 ## Code
