@@ -18,9 +18,9 @@ This is a piano song which represents classical style and only one instrument.
 
 ## Code
 Jupyter notebooks: 
-- generative_code.ipynb
+- generative_code.ipynb [
 - Generating Piano Music with Transformer.ipynb
-- MusicVAE.ipynb
+- MusicVAE.ipynb [MusicVAE.ipynb](https://github.com/ucsd-ml-arts/generative-audio-zizhen-wang/blob/master/MusicVAE.ipynb)
 
 ## Results
 Firstly, I changed the number of instruments, we will see the assumption is good which we still could recognize the style but the piano song changed to symphony concert which is very interesting.
