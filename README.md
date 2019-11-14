@@ -32,9 +32,9 @@ I put the generated song into Transformer, we would see the rhythm changed a lot
 
 
 ## Reference
-Music Transformer: Generating Music with Long-Term Structure
+- Music Transformer: Generating Music with Long-Term Structure
 https://magenta.tensorflow.org/music-transformer
-MusicVAE: Creating a palette for musical scores with machine learning.
+- MusicVAE: Creating a palette for musical scores with machine learning.
 https://magenta.tensorflow.org/music-vae
-GANSynth: Making music with GANs
+- GANSynth: Making music with GANs
 https://magenta.tensorflow.org/gansynth
