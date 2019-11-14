@@ -17,7 +17,7 @@ This is a piano song which represents classical style and only one instrument.
 
 
 ## Code
-- Jupyter notebooks: 
+Jupyter notebooks: 
 - generative_code.ipynb
 - Generating Piano Music with Transformer.ipynb
 - MusicVAE.ipynb
