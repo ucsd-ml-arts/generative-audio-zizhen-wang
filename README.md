@@ -18,8 +18,8 @@ This is a piano song which represents classical style and only one instrument.
 
 ## Code
 Jupyter notebooks: 
-- generative_code.ipynb [
-- Generating Piano Music with Transformer.ipynb
+- generative_code.ipynb [gansynth_external.ipynb](https://github.com/ucsd-ml-arts/generative-audio-zizhen-wang/blob/master/gansynth_external.ipynb)
+- Generating Piano Music with Transformer.ipynb [Generating_Piano_Music_with_Transformer.ipynb](https://github.com/ucsd-ml-arts/generative-audio-zizhen-wang/blob/master/Generating_Piano_Music_with_Transformer.ipynb)
 - MusicVAE.ipynb [MusicVAE.ipynb](https://github.com/ucsd-ml-arts/generative-audio-zizhen-wang/blob/master/MusicVAE.ipynb)
 
 ## Results
