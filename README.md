@@ -10,9 +10,9 @@ Different types music always have the specific rhythm, melody and instruments. P
 
 ## Model/Data
 
-
-La companella
-This is a piano song which represents classical style and only one instrument.
+- La companella
+- "La campanella" (Italian for "The little bell") is the nickname given to the third of Franz Liszt's six Grandes études de Paganini, S. 141 (1851). It is in the key of G-sharp minor. This piece is a revision of an earlier version from 1838, the Études d'exécution transcendente d'après Paganini, S. 140. Its melody comes from the final movement of Niccolò Paganini's Violin Concerto No. 2 in B minor, where the tune was reinforced metaphorically by a 'little handbell'. This is portrayed by the top note jumps that need to be played within the timeframe of a 16th note.
+- This is a piano song which represents classical style and only one instrument.
 
 
 
@@ -50,7 +50,7 @@ Jupyter notebooks:
 This new music which all the components are changed that we could not recognize the classical style. This music is like a new type electrical music which is very interesting.
 
 ## Technical Notes
-
+Some resource could not be as traning data set, so we need convert wav file to midi file which choose some converters online and tranform them back to wav as result.
 
 
 ## Reference
