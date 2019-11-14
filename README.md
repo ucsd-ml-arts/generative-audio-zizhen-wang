@@ -47,7 +47,7 @@ Jupyter notebooks:
 ![](https://github.com/ucsd-ml-arts/generative-audio-zizhen-wang/blob/master/07.jpg)
 - [generated_clip2.wav](https://www.driveplayer.com/#fileIds=1aV2jFeEvVJtTPUv3nJKUmaIJ90gAJYdW&userId=104858041665593101824)
 
-
+This new music which all the components are changed that we could not recognize the classical style. This music is like a new type electrical music which is very interesting.
 
 ## Technical Notes
 
