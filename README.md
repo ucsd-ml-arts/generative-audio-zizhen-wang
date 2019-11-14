@@ -24,6 +24,7 @@ Jupyter notebooks:
 
 ## Results
 Firstly, I changed the number of instruments, we will see the assumption is good which we still could recognize the style but the piano song changed to symphony concert which is very interesting.
+![](https://github.com/ucsd-ml-arts/generative-audio-zizhen-wang/blob/master/01.jpg) ![](https://github.com/ucsd-ml-arts/generative-audio-zizhen-wang/blob/master/02.jpg) ![](https://github.com/ucsd-ml-arts/generative-audio-zizhen-wang/blob/master/generated_clip.wav)
 Secondly, I only inputed the  piano music to musicVAE which changed the melody. We will see all the song changed to the piano song, but when the melody changed.
 I put the generated song into Transformer, we would see the rhythm changed a lot but the melody almost keeped same.
 
