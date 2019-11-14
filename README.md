@@ -23,11 +23,11 @@ Jupyter notebooks:
 - MusicVAE.ipynb [MusicVAE.ipynb](https://github.com/ucsd-ml-arts/generative-audio-zizhen-wang/blob/master/MusicVAE.ipynb)
 
 ## Results
-Firstly, I changed the number of instruments, we will see the assumption is good which we still could recognize the style but the piano song changed to symphony concert which is very interesting.
-![](https://github.com/ucsd-ml-arts/generative-audio-zizhen-wang/blob/master/01.jpg) ![](https://github.com/ucsd-ml-arts/generative-audio-zizhen-wang/blob/master/02.jpg) [generated_clip.wav](https://www.driveplayer.com/#fileIds=1wes7C-NwRwIrbI1a45EJgnVIOejcnAdv&userId={userId})
-Secondly, I only inputed the  piano music to musicVAE which changed the melody. We will see all the song changed to the piano song, but when the melody changed.
-I put the generated song into Transformer, we would see the rhythm changed a lot but the melody almost keeped same.
-
+Firstly, I used GANSynth generator to generate new music by 16 random samples of instruments. GANSynth is a new approach to audio synthesis using neural networks to release a playable set of neural synthsizer instruments. The Synth dataset has a lot of intruments samples and qualities like bright or dark.  They use encoder and decoder to generate new instuments into new waveform. The generate custom inerpolation for instruments: [0, 3, 6, 0] and for time :[0, 0.3, 0.6, 1.0]
+![](https://github.com/ucsd-ml-arts/generative-audio-zizhen-wang/blob/master/01.jpg) ![](https://github.com/ucsd-ml-arts/generative-audio-zizhen-wang/blob/master/02.jpg)
+- [03 - La Campanella.mp3](https://www.driveplayer.com/#fileIds=1uJ7OjY9J_JI7a-0ljdvY03kuDINwl8_7&userId={userId})
+- [generated_clip.wav](https://www.driveplayer.com/#fileIds=1wes7C-NwRwIrbI1a45EJgnVIOejcnAdv&userId={userId}) You could also download from github if you do not have permission.
+The first one is original music and second one is generated music. We will see the form for x-axis is almost same which means the rhythm and melody is almost same. We could also listen from these 2 musics. The interesting thing is the generated music still keep the classic music style and it listens like symphony or drama which have a lot of instruments.
 ## Technical Notes
 
 
